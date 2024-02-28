@@ -1,8 +1,7 @@
 ![36696298_1983251455032518_8897565172218986496_n](https://github.com/LipChuanSui/iot-smart-traffic-with-emergency/assets/56187131/ee9fb7a7-077f-4818-9fc8-62e4ab14c08d)
 ![36698439_1983251448365852_1413801576262270976_n](https://github.com/LipChuanSui/iot-smart-traffic-with-emergency/assets/56187131/e6a6f92d-e78a-4b2c-872c-1704f4e8ba92)
 
-https://raw.githubusercontent.com/LipChuanSui/iot-smart-traffic-with-emergency/main/36717464_2181967598486451_2148367174312394752_n.jpg
-
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/LipChuanSui/iot-smart-traffic-with-emergency/main/36717464_2181967598486451_2148367174312394752_n.jpg))
 
 
 
