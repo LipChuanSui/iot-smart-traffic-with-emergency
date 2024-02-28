@@ -1,7 +1,8 @@
 ![36696298_1983251455032518_8897565172218986496_n](https://github.com/LipChuanSui/iot-smart-traffic-with-emergency/assets/56187131/ee9fb7a7-077f-4818-9fc8-62e4ab14c08d)
-
 ![36698439_1983251448365852_1413801576262270976_n](https://github.com/LipChuanSui/iot-smart-traffic-with-emergency/assets/56187131/e6a6f92d-e78a-4b2c-872c-1704f4e8ba92)
 ![Uploading 36717464_2181967598486451_2148367174312394752_n.jpg…]()
+
+
 
 
 Traffic management system is a cornerstone of a Smart city. In the current problems of the world, urban mobility is one of the major problems, especially in metropolitan cities. Previous traffic management systems are not capable enough to tackle this growth of traffic on the road networks. The purpose of this paper is to propose a smart traffic management system using the Internet of Things and a decentralized approach to optimize traffic on the roads to manage all traffic situations more accurately. 
